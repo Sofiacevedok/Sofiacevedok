@@ -1,4 +1,4 @@
-### Hi Sofia Acevedo 👋
+### I'm Sofia Acevedo 👋
 
 Graduated in Full Stack developer, I develop React, I also develop APIs with Express.js & Node.js using JavaScript.
 
@@ -7,5 +7,4 @@ Graduated in Full Stack developer, I develop React, I also develop APIs with Exp
 
 Contact me:
 ✉️ sofiacevedok@gmail.com
-
 📠 https://www.linkedin.com/in/sofia-acevedok/
